@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6
-sdesc: "Xorg display refresher"
-ldesc: "Xorg display refresher"
+sdesc: "X.Org display refresher"
+ldesc: "X.Org display refresher"

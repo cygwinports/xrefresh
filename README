@@ -1,6 +1,6 @@
 xrefresh
 ------------------------------------------
-Xorg display refresher
+X.Org display refresher
 
 Runtime requirements:
   cygwin-1.5.20-1
